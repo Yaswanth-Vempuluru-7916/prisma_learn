@@ -1,3 +1,6 @@
-Testing commit added or not for githubapi campus tracker be 
-made the repo public and checked the endpoint => No changes 
-so making another commit 
+## Testing Commit Status - Campus Tracker BE
+
+- Made the repo **public** ✅  
+- Checked the **GitHub API endpoint** → *No changes observed* ❌  
+- Creating another **test commit** to verify changes 🚀
+
